@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Eventi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBBC146-4DF9-4A70-963A-0EECAF37445A}|Eventi\\Eventi.csproj|c:\\users\\utente\\desktop\\nuova cartella\\eventi\\eventi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBBC146-4DF9-4A70-963A-0EECAF37445A}|Eventi\\Eventi.csproj|solutionrelative:eventi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBBC146-4DF9-4A70-963A-0EECAF37445A}|Eventi\\Eventi.csproj|c:\\users\\utente\\desktop\\nuova cartella\\eventi\\eventi\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBBC146-4DF9-4A70-963A-0EECAF37445A}|Eventi\\Eventi.csproj|solutionrelative:eventi\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBBC146-4DF9-4A70-963A-0EECAF37445A}|Eventi\\Eventi.csproj|c:\\users\\utente\\desktop\\nuova cartella\\eventi\\eventi\\models\\contiene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBBC146-4DF9-4A70-963A-0EECAF37445A}|Eventi\\Eventi.csproj|solutionrelative:eventi\\models\\contiene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBBC146-4DF9-4A70-963A-0EECAF37445A}|Eventi\\Eventi.csproj|c:\\users\\utente\\desktop\\nuova cartella\\eventi\\eventi\\models\\partecipante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBBC146-4DF9-4A70-963A-0EECAF37445A}|Eventi\\Eventi.csproj|solutionrelative:eventi\\models\\partecipante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBBC146-4DF9-4A70-963A-0EECAF37445A}|Eventi\\Eventi.csproj|c:\\users\\utente\\desktop\\nuova cartella\\eventi\\eventi\\models\\risorsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBBC146-4DF9-4A70-963A-0EECAF37445A}|Eventi\\Eventi.csproj|solutionrelative:eventi\\models\\risorsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBBC146-4DF9-4A70-963A-0EECAF37445A}|Eventi\\Eventi.csproj|c:\\users\\utente\\desktop\\nuova cartella\\eventi\\eventi\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBBC146-4DF9-4A70-963A-0EECAF37445A}|Eventi\\Eventi.csproj|solutionrelative:eventi\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Eventi\\Eventi\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "Eventi\\Models\\Menu.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Eventi\\Eventi\\Models\\Menu.cs",
+              "RelativeToolTip": "Eventi\\Models\\Menu.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:58:34.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Risorsa.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Eventi\\Eventi\\Models\\Risorsa.cs",
+              "RelativeDocumentMoniker": "Eventi\\Models\\Risorsa.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Eventi\\Eventi\\Models\\Risorsa.cs",
+              "RelativeToolTip": "Eventi\\Models\\Risorsa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:49:56.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Partecipante.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Eventi\\Eventi\\Models\\Partecipante.cs",
+              "RelativeDocumentMoniker": "Eventi\\Models\\Partecipante.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Eventi\\Eventi\\Models\\Partecipante.cs",
+              "RelativeToolTip": "Eventi\\Models\\Partecipante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:49:56.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Eventi\\Eventi\\Models\\Evento.cs",
+              "RelativeDocumentMoniker": "Eventi\\Models\\Evento.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Eventi\\Eventi\\Models\\Evento.cs",
+              "RelativeToolTip": "Eventi\\Models\\Evento.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAtwBEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:49:55.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contiene.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Eventi\\Eventi\\Models\\Contiene.cs",
+              "RelativeDocumentMoniker": "Eventi\\Models\\Contiene.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Eventi\\Eventi\\Models\\Contiene.cs",
+              "RelativeToolTip": "Eventi\\Models\\Contiene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:49:54.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Eventi\\Eventi\\Program.cs",
+              "RelativeDocumentMoniker": "Eventi\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Nuova cartella\\Eventi\\Eventi\\Program.cs",
+              "RelativeToolTip": "Eventi\\Program.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAApwJEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:42:24.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
